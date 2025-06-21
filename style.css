@@ -105,10 +105,11 @@
   }
   
   .about-content img {
-    width: 500px;
+  width: 300px; /* or any size like 100%, 50%, etc. */
+    max-width: 100%;
+    height: auto;
     border-radius: 1px;
-  }
-  
+}
   .about-content ul {
     list-style: none;
     margin-top: 1rem;
