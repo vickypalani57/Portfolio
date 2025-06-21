@@ -1,9 +1,11 @@
 .about-content{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  align-items: center;
+  text-align: left;
+}
   body {
     font-family: 'Poppins', sans-serif;
     background-color: #0f172a;
