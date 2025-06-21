@@ -92,10 +92,9 @@
   }
   
   .project-card img {
-    width: 50%;
-    border-radius: 10px;
-    margin-bottom: 10rem;
-  }
+  width: 500px;
+  border-radius: 1px;
+}
   
   .about-content {
     display: flex;
